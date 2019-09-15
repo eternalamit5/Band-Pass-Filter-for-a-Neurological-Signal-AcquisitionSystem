@@ -13,7 +13,7 @@ The following requirements were given:
 - Gain =40dB = 100
 - Cut-off frequencies – 1Hz High Pass and 10kHz Low Pass to accommodate for LFPs
 and Neural Potentials
-- 350nm PDK for the MOFETs.
--Area constraint 0.225sq.mm.
--Input noise of 50nV\Hz^0.5.
--Power dissipation of each transistor 180 μW.
+- 350nm PDK for the MOFETs
+-Area constraint 0.225sq mm
+-Input noise of 50nV\Hz^0.5
+-Power dissipation of each transistor 180 μW
